@@ -1,0 +1,2 @@
+# 14-SESSION-BACKEND-MINJOON
+1주차 세션 실습입니다
