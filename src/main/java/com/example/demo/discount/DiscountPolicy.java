@@ -1,4 +1,4 @@
-package com.example.demo.dicount;
+package com.example.demo.discount;
 
 import com.example.demo.member.Member;
 
