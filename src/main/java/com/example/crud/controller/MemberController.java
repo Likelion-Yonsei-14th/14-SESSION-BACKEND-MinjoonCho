@@ -20,7 +20,7 @@ public class MemberController {
         return repository.save(member);
     }
 
-    @PostMapping
+    @GetMapping
     public List<Member> findAll() {
         return repository.findAll();
     }
